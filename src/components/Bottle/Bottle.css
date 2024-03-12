@@ -1,0 +1,12 @@
+.bottle{
+    border: 2px solid sandybrown;
+    border-radius: 15px;
+    margin: 15px;
+    padding: 15px;
+    background-color: #00d2d310;
+}
+
+.img{
+    width: 200px;
+    border-radius: 15px;
+}
